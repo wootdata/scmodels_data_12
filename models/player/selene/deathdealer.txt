@@ -1,0 +1,39 @@
+-Death Dealer Selene-
+
+Character "Selene" from the motion picture "Underworld".
+
+Model Statistics:
+
+Polygonal Count: 3403
+Texture Count: 7
+Sequence Count: 161
+Bone/Joint Count: 44
+
+Credits:
+
+Actual Model: 
+Ritual Entertainment
+Rockstar Games
+Legend
+Atari
+Fury_161
+
+Animations:
+Fury_161
+
+Textures:
+Neil Manke
+Underworld Movie
+Fury_161
+
+Everything remodeled, redone, reskinned, re-uvmapped, and reanimated by:
+
+Fury_161
+
+alex@sarunac.com
+
+Installation:
+
+Simply unzip to your Sven-Coop directory, so that all the files go into "player\selene"
+
+Please do not make any modifications to the model without my consent, thank you.
