@@ -1,1 +1,80 @@
-{"seq_groups": 1, "hash": "e5c00a357427ddbcec46ec3a97381352", "tri_count": "2114"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "kingtiger",
+					"polys": 1051,
+					"verts": 655
+				}, 
+				{
+					"name": "kingtiger_destroyed",
+					"polys": 1063,
+					"verts": 655
+				}
+			],
+			"name": "kingtiger"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "e5c00a357427ddbcec46ec3a97381352",
+	"name": "U:\\dod\\models\\mapmodels\\kingtiger\\compile\\kingtiger.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 101,
+			"name": "idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Box01",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "skin1.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "skin2.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "skin3.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "skin1_destroyed.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "skin2_destroyed.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "skin3_destroyed.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}
