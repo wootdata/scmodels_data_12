@@ -336,25 +336,11 @@
 			"options": "muzzle_spaw.txt",
 			"sequence": 175,
 			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 0,
-			"options": "barney/ba_pain3.wav",
-			"sequence": 182,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 0,
-			"options": "barney/ba_pain2.wav",
-			"sequence": 184,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "33cdd725bf2adeee243bb9cb6a7a1606",
-	"name": "sc_miller2.mdl",
+	"md5": "935da95fdaea3cfe5e7dd18444208859",
+	"name": "sc_miller.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1313,7 +1299,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2014972,
+	"size": 2016652,
 	"skeleton": [
 		{
 			"name": "Bip01",
