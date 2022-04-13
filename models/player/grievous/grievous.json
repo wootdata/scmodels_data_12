@@ -130,57 +130,85 @@
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "15",
+			"options": "21",
 			"sequence": 49,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "15",
+			"options": "21",
 			"sequence": 53,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "15",
+			"options": "31",
 			"sequence": 57,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "15",
+			"options": "31",
 			"sequence": 61,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "15",
+			"options": "51",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "15",
+			"options": "51",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "20",
+			"options": "40",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "20",
+			"options": "40",
 			"sequence": 83,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "30",
+			"sequence": 112,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "31",
+			"sequence": 113,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "32",
+			"sequence": 118,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "33",
+			"sequence": 119,
 			"type": 0
 		}, 
 		{
@@ -311,7 +339,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "8afa2a86e2ae9d208688f04cdfc9a84f",
+	"md5": "3b2534b56b7b8faaf4fe054b47583bf5",
 	"name": "grievous.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -332,13 +360,13 @@
 		}, 
 		{
 			"fps": 40.000000,
-			"frames": 25,
-			"name": "run2"
+			"frames": 23,
+			"name": "run"
 		}, 
 		{
-			"fps": 20.000000,
+			"fps": 15.000000,
 			"frames": 17,
-			"name": "walk2handed"
+			"name": "walk"
 		}, 
 		{
 			"fps": 20.000000,
@@ -441,7 +469,7 @@
 			"name": "crouch_shoot_crowbar"
 		}, 
 		{
-			"fps": 10.000000,
+			"fps": 7.000000,
 			"frames": 9,
 			"name": "ref_cock_wrench"
 		}, 
@@ -456,7 +484,7 @@
 			"name": "ref_shoot_wrench"
 		}, 
 		{
-			"fps": 10.000000,
+			"fps": 7.000000,
 			"frames": 9,
 			"name": "crouch_cock_wrench"
 		}, 
@@ -1223,10 +1251,10 @@
 		{
 			"fps": 10.000000,
 			"frames": 1,
-			"name": "ShannonCaldwell_v1.2"
+			"name": "ShannonCaldwell_v1.0"
 		}
 	],
-	"size": 2499420,
+	"size": 2460232,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1408,7 +1436,7 @@
 			"flags": 0,
 			"height": 242,
 			"name": "hands.bmp",
-			"width": 224
+			"width": 228
 		}, 
 		{
 			"flags": 0,
