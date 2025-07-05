@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "14df63b0c5f61e49b6501f99a439122f",
-	"name": "RE_RPD_Leon.mdl",
+	"md5": "9686a0a7d7b7ba67c453692726e0af8c",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\modeO",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1462080,
+	"size": 1462148,
 	"skeleton": [
 		{
 			"name": "Bip01",
