@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a0ffefeb0c8ee7a1a9e6c56797ab9ed0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RE3_Zombie4.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

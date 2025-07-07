@@ -33,6 +33,7 @@
 			"name": "winkler"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1c1106ca0f62c7156b6952c541e50635",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ss_heavy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

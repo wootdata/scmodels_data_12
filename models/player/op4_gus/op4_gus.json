@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8e63f133f64fa6d43ef5231e40c33ffb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "alpha_gus.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -112,6 +112,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 3,
@@ -696,7 +697,11 @@
 	],
 	"id": 1414743113,
 	"md5": "941bc438623c30695287dff0a1a147cd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Galgun_Akira.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

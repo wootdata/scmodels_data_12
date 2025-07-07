@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "afbe7dbf431dd9d2ca52e7200bc81938",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sc_marineunknown.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

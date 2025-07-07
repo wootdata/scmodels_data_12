@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "958c06670e23cd5aa6367c5a76fccd7b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\WINDOWS\\Bureau\\Creaskin\\kxmodel\\kx.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

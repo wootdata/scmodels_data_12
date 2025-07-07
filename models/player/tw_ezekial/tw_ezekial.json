@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "90325764a022cba0f99f14cee9692597",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tw_ezekial.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "04a696030700f5dee9bb102eec457638",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ranger7.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

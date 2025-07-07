@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b3b80dad81701e782909a2bbb8afda07",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "k-9.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

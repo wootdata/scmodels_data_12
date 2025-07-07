@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -393,7 +394,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3b017d11792a32a41ee6fbff53d30ef2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "IV_Johnny.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

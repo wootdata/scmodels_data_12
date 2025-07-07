@@ -183,6 +183,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -799,7 +800,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a618ccacb03a632479f1aa84c2373bfb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Klee.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

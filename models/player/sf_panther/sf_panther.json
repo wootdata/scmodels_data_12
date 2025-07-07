@@ -33,6 +33,7 @@
 			"name": "winkler"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "34735bc92ccaae0637ddda9538ba8eea",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SF_Panther.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -520,7 +521,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6e66f8897669caf8f388b1c45a134e6d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "allied5_s5.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

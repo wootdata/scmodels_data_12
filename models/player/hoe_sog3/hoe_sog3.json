@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "387ba39def86644014d0e6553b901961",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HoE_SOG3.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

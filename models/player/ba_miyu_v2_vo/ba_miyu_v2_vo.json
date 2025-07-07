@@ -193,6 +193,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -625,7 +626,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2f85569811f6d707b1e42857eaded88b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ba_miyu_v2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

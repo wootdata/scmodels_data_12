@@ -48,6 +48,7 @@
 			"name": "i_love_ezequiel-TM"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -192,7 +193,11 @@
 	],
 	"id": 1414743113,
 	"md5": "245a8ada089d4a240dc0cb9ce41b221a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Gma3n.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

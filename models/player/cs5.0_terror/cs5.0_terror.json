@@ -48,6 +48,7 @@
 			"name": "C4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "639e501f03628179cd1ce15ba94966ba",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cs5.0_terror.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -716,7 +717,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dbdbeaf557fbda769dad66830d0aaaab",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gi_kukishinobu.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

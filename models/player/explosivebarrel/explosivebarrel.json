@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -277,7 +278,11 @@
 	],
 	"id": 1414743113,
 	"md5": "41a96aca49e944d4ff1c7d08551aefe3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "explosivebarrel.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -82,6 +82,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -423,7 +424,11 @@
 	],
 	"id": 1414743113,
 	"md5": "54930f0717bb9029eed9a0fe6c6c3315",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "H-MDN_Tenno_Uzume.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

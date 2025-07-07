@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 28,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "79d01c83c7d38fe7afd6d256d4ae3828",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "stylez.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

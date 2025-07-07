@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -305,7 +306,11 @@
 	],
 	"id": 1414743113,
 	"md5": "42706fb1173d3d1d0cb29cd177be15ac",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Milly_Maid.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

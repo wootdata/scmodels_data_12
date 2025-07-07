@@ -153,6 +153,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -794,7 +795,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bf5cde2a974b24567df6b48d72a2885b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Hime_Cat.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

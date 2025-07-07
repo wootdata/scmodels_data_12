@@ -108,6 +108,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -442,7 +443,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3a1232e726f2182501106d99e94c145e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HN_Iris_Heart_a.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

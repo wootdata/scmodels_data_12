@@ -73,6 +73,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0b68a7249473b4a29865b6095a7e7218",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "LegionnaireN.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

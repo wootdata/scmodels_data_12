@@ -173,6 +173,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -453,7 +454,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5d94d3352e7f57d4e49610f82eab25bd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ZZZ_Ellen_Joe.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

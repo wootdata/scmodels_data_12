@@ -53,6 +53,7 @@
 			"name": "backfaces"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a0239451400d0dcdb4864942e3cf581f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "oneshot_alula.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

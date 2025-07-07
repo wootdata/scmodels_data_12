@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -373,7 +374,11 @@
 	],
 	"id": 1414743113,
 	"md5": "eb242bc2167f69af00c88dccedb3ef30",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tetris.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

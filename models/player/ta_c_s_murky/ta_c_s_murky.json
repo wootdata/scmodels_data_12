@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -564,7 +565,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ba87c9587a8a5fe154a8b5f9552a4a72",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TA_c_soldier.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

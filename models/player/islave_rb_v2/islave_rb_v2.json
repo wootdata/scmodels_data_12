@@ -23,6 +23,7 @@
 			"name": "islave"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 47,
@@ -37,7 +38,11 @@
 	"events": [],
 	"id": 1414743113,
 	"md5": "730a2fad55ab203999062b9483b51624",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "islave_rb.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

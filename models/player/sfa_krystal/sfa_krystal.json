@@ -63,6 +63,7 @@
 			"name": "winkler"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a8a65f0d51e0ac18f254e37613c3ea7d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SFA_Krystal.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

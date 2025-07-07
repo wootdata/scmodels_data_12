@@ -52,6 +52,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -715,7 +716,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9e6d9b4d615c49a11b61a034a63a7677",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_Neppugya-maid.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

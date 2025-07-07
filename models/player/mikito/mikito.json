@@ -22,6 +22,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -292,7 +293,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1b4dee32faaa8cdf3bf5fab0f73bda1d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "vash.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

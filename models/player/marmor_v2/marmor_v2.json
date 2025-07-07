@@ -53,6 +53,7 @@
 			"name": "equip"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6a04816fd90b3139b968ed168bcf7db9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "marmor.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

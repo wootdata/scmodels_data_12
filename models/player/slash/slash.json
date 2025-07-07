@@ -143,6 +143,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -413,7 +414,11 @@
 	],
 	"id": 1414743113,
 	"md5": "72c6e9c7669106ac88b061572151055c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Slash.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

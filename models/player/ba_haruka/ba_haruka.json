@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -734,7 +735,11 @@
 	],
 	"id": 1414743113,
 	"md5": "41a62b751589ea68dfd5c7a44d44bb47",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BA_Haruka.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

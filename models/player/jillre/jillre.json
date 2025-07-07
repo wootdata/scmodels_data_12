@@ -63,6 +63,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8d60c5e2a788efd4b73df07904f917f9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Jill_Valentine.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

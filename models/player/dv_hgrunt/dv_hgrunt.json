@@ -33,6 +33,7 @@
 			"name": "torso"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a16b60adbc1e1e9214413d1ea23b0b5a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DV_HGrunt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

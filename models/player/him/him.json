@@ -493,6 +493,7 @@
 			"name": "ad"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -763,7 +764,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d5e06a3281a7a05ab179937b5f8ac9d2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "him (written by Xash3D studiomdl)",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

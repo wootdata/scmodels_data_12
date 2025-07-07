@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -640,7 +641,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c4bf1ec5c43a844190fdb264ad7b96e5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/Holo_Laplus_Darkness/Holo_Laplus_Darkness.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 35,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9c43ab11fbe70602144e3235f15d0e22",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kiteretu.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

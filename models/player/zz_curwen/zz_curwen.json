@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -187,7 +188,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a92f7841e8f077edefe3b1b4a0d12ca7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\Mis Documentos\\Kevin\\Games\\HL\\Skins\\1. EDITAR\\0. Arreglar Ter",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

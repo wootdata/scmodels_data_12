@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -305,7 +306,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6d1bfafab7832c2ac732ab93a0224fa2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomimi_casino.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

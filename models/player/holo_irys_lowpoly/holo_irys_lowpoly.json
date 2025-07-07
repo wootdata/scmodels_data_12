@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -640,7 +641,11 @@
 	],
 	"id": 1414743113,
 	"md5": "eee0442f40159004483b73bafbb3ecde",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/Holo_Irys/Holo_Irys.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

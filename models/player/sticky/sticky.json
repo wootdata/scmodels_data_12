@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 21,
@@ -274,7 +275,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a74afa5b0ce805123de9a80e6e40542b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sticky.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

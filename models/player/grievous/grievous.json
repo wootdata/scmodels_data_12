@@ -43,6 +43,7 @@
 			"name": "body2"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -341,7 +342,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3b2534b56b7b8faaf4fe054b47583bf5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "grievous.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
