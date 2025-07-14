@@ -306,6 +306,7 @@
 	"md5": "13042d0d35ddec42738e0cb8d10fab0c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "dm_helmet.mdl",
 	"preview": true,
 	"readme": false,

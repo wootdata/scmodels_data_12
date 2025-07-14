@@ -301,6 +301,7 @@
 	"md5": "af93a208ab5cd7ebf897a9c480883502",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "../compiled/cs_terror.mdl",
 	"preview": true,
 	"readme": false,
