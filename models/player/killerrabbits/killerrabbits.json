@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185457558,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "958c06670e23cd5aa6367c5a76fccd7b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\WINDOWS\\Bureau\\Creaskin\\kxmodel\\kx.mdl",
 	"preview": true,
 	"readme": false,

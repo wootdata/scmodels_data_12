@@ -73,7 +73,7 @@
 			"type": 8
 		}
 	],
-	"date": 1304284272,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 2001,
@@ -185,6 +185,7 @@
 	"md5": "72b7d316ae41907ca5559ee9a849bcbb",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "scientist .mdl",
 	"preview": true,
 	"readme": false,

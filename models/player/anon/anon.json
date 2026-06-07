@@ -83,7 +83,7 @@
 			"type": 8
 		}
 	],
-	"date": 1609572702,
+	"date": 1780811527,
 	"events": [
 		{
 			"event": 2001,
@@ -195,6 +195,7 @@
 	"md5": "245a8ada089d4a240dc0cb9ce41b221a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "Gma3n.mdl",
 	"preview": true,
 	"readme": false,

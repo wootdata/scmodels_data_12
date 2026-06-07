@@ -52,7 +52,7 @@
 			"type": 8
 		}
 	],
-	"date": 1579696394,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2001,
@@ -164,6 +164,7 @@
 	"md5": "ee6a58000257d26ab845e309e28bae97",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\slave\\orb.mdl",
 	"preview": true,
 	"readme": false,

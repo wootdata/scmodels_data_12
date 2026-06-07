@@ -78,7 +78,7 @@
 			"type": 8
 		}
 	],
-	"date": 1589092280,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2001,
@@ -190,6 +190,7 @@
 	"md5": "a92f7841e8f077edefe3b1b4a0d12ca7",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "D:\\Mis Documentos\\Kevin\\Games\\HL\\Skins\\1. EDITAR\\0. Arreglar Ter",
 	"preview": true,
 	"readme": false,
